@@ -1,5 +1,9 @@
 # ☕ Coffee Delivery.
 
+<div> 
+    <img src="https://cdn.discordapp.com/attachments/955198866351853708/1176980359209041961/Animacao.gif" width="900px" />
+</div>
+
 ## Sobre o Projeto
 
 ✨ O projeto **Coffee Delivery** é um Web App que simula um menu de uma cafeteria com delivery e a confirmação de pedido.
