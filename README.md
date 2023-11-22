@@ -94,7 +94,7 @@ Se você deseja fazer alterações no código, pode criar um fork deste reposit�
 
 ### 3. Melhoria da Documentação
 
-A documentação é fundamental para manter a API acessível e fácil de entender. Se você identificar partes do código que precisam de documentação adicional, pode contribuir adicionando comentários claros ou atualizando o README.
+A documentação é fundamental para manter acessível e fácil de entender. Se você identificar partes do código que precisam de documentação adicional, pode contribuir adicionando comentários claros ou atualizando o README.
 
 ### Como Contribuir
 
