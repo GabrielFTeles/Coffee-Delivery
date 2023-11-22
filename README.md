@@ -109,3 +109,9 @@ A documentação é fundamental para manter acessível e fácil de entender. Se 
 5. Abra um Pull Request para este repositório.
 
 🤝 Agradeço por sua contribuição
+
+## 📧 Contato
+
+Se você deseja um projeto comigo, fique à vontade para entrar em contato através deste e-mail:
+
+- **E-mail:** [gabrielfariateles@gmail.com](mailto:gabrielfariateles@gmail.com)
