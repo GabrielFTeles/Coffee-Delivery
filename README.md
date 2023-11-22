@@ -1,8 +1,8 @@
-# 🍔 Food Explorer - Front End.
+# ☕ Coffee Delivery.
 
 ## Sobre o Projeto
 
-✨ O projeto **Food Explorer** é um Web App que simula um menu interativo de um restaurante fictício. Ele oferece uma experiência envolvente aos usuários, permitindo que eles explorem os pratos, bebidas e opções do cardápio de forma interativa e visualmente atraente. Com o **Food Explorer**, os clientes podem navegar pelos pratos, ver imagens, descrições e informações detalhadas sobre cada item, criando uma experiência gastronômica virtual única.
+✨ O projeto **Coffee Delivery** é um Web App que simula um menu de uma cafeteria com delivery e a confirmação de pedido.
 
 ## 📋 Índice
 
