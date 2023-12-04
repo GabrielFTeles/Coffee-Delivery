@@ -1,27 +1,117 @@
-# React + TypeScript + Vite
+# ☕ Coffee Delivery.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<div> 
+    <img src="https://cdn.discordapp.com/attachments/955198866351853708/1176980359209041961/Animacao.gif" width="900px" />
+</div>
 
-Currently, two official plugins are available:
+## Sobre o Projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✨ O projeto **Coffee Delivery** é um Web App que simula um menu de uma cafeteria com delivery e a confirmação de pedido.
 
-## Expanding the ESLint configuration
+## 📋 Índice
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- 📦 [Pré-requisitos](#-pré-requisitos)
+- 🛠️ [Instalação](#%EF%B8%8F-instalação)
+- 📂 [Estrutura do Projeto](#-estrutura-do-projeto)
+- 💻 [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- 🤝 [Contribuições](#-contribuições)
 
-- Configure the top-level `parserOptions` property like this:
+## 📦 Pré-requisitos
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
+Liste de pré-requisitos necessários para que o projeto seja executado com sucesso:
+
+- [Node.js](https://nodejs.org/) - Versão v18.17.1 ou superior.
+- [npm](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/) - Versão 9.5.1 ou superior.
+
+## 🛠️ Instalação
+
+Siga os passos abaixo para instalar e configurar a aplicação em um ambiente local:
+
+1. 📥 **Clone o repositório:**
+
+    ```bash
+    git clone https://github.com/GabrielFTeles/Coffee-Delivery.git
+    ```
+
+2. 📂 **Navegue para o diretório do projeto:**
+
+    ```bash
+    cd ./Coffee-Delivery
+    ```
+
+3. 📦 **Instale as dependências:**
+
+    ```bash
+    npm install
+    ```
+4. ▶️ **Inicie o servidor:**
+
+    ```bash
+    npm run dev
+    ```
+
+Agora a **Aplicação Coffee Delivery** está instalada, configurada e em execução no seu ambiente local. Você pode começar a usá-la para testes e desenvolvimento.
+
+## 📂 Estrutura do Projeto
+
+```shell
+./FrontEnd/
+  ├── src/
+  │   ├── assets/
+  │   ├── components/
+  │   ├── contexts/
+  │   ├── hooks/
+  │   ├── layouts/
+  │   ├── mocks/
+  │   ├── pages/
+  │   ├── reducers/
+  │   ├── styles/
+  │   ├── utils/
+  │   ├── App.tsx
+  │   └── main.jsx
+  ├── index.html
+  ├── README.md
+  └── package.json
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## 💻 Tecnologias Utilizadas
+
+Lista das principais tecnologias e bibliotecas usadas no projeto:
+
+- [**React**](https://react.dev/): Biblioteca JavaScript para construção de interfaces de usuário.
+- [**TypeScript**](https://www.typescriptlang.org/): Superset do JavaScript que adiciona tipagem estática ao código.
+- [**Styled Components**](https://styled-components.com/): Biblioteca para estilizar componentes React com estilos baseados em componentes.
+- [**Zod**](https://github.com/colinhacks/zod): Uma biblioteca de validação de esquema para TypeScript, eficiente e fácil de usar.
+- [**React Hook Form**](https://react-hook-form.com/): Biblioteca para gerenciar formulários React com suporte a ganchos (hooks) e validação eficiente.
+
+## 🤝 Contribuições
+
+Agradeço por considerar contribuir para a **Food Explorer API**! Contribuições são importantes para melhorar e evoluir o projeto. Aqui estão algumas maneiras pelas quais você pode contribuir:
+
+### 1. Abertura de Issues
+
+Se você encontrar problemas, bugs ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue. Certifique-se de incluir detalhes suficientes para que possamos entender o problema ou a sugestão.
+
+### 2. Envio de Pull Requests (PRs)
+
+Se você deseja fazer alterações no código, pode criar um fork deste repositório, fazer suas alterações no seu fork e, em seguida, enviar um Pull Request. Certifique-se de descrever as alterações que você fez e explicar como isso beneficia o projeto.
+
+### 3. Melhoria da Documentação
+
+A documentação é fundamental para manter acessível e fácil de entender. Se você identificar partes do código que precisam de documentação adicional, pode contribuir adicionando comentários claros ou atualizando o README.
+
+### Como Contribuir
+
+1. Faça um fork deste repositório.
+2. Crie uma nova branch para suas alterações: `git checkout -b feature/nome-da-sua-feature`.
+3. Faça suas alterações e commit: `git commit -m 'Adiciona nova funcionalidade'`.
+4. Envie suas alterações para o GitHub: `git push origin feature/nome-da-sua-feature`.
+5. Abra um Pull Request para este repositório.
+
+🤝 Agradeço por sua contribuição
+
+## 📧 Contato
+
+Se você deseja um projeto comigo, fique à vontade para entrar em contato através deste e-mail:
+
+- **E-mail:** [gabrielfariateles@gmail.com](mailto:gabrielfariateles@gmail.com)
