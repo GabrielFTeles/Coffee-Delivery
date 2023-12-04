@@ -31,7 +31,7 @@ export function ProductCard({ product }: ProductCardProps) {
 
   return (
     <ProductCardContainer>
-      <img src={`../../assets/${product.image_url}`} alt="" />
+      <img src={`./src/assets/${product.image_url}`} alt="" />
 
       <TagsList>
         {product.tags.map((tag) => (
