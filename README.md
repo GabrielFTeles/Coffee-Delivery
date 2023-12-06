@@ -55,7 +55,7 @@ Agora a **Aplicação Coffee Delivery** está instalada, configurada e em execu�
 ## 📂 Estrutura do Projeto
 
 ```shell
-./FrontEnd/
+./
   ├── src/
   │   ├── assets/
   │   ├── components/
@@ -86,7 +86,7 @@ Lista das principais tecnologias e bibliotecas usadas no projeto:
 
 ## 🤝 Contribuições
 
-Agradeço por considerar contribuir para a **Food Explorer API**! Contribuições são importantes para melhorar e evoluir o projeto. Aqui estão algumas maneiras pelas quais você pode contribuir:
+Agradeço por considerar contribuir para a **Coffee Delivery**! Contribuições são importantes para melhorar e evoluir o projeto. Aqui estão algumas maneiras pelas quais você pode contribuir:
 
 ### 1. Abertura de Issues
 
